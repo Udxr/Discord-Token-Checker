@@ -3,7 +3,7 @@ A easy and safe program to check tokens to see if they are invalid, valid or unv
 
 ## Installation
 
-Download [node.js](https://nodejs.org/en/download/)
+Download [node.js](https://nodejs.org/en/download/)<br />
 Run `install_packages.bat` (This will install all the necessary packages for the program to work)
 
 ```js
